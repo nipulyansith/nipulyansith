@@ -1,4 +1,3 @@
-[![MasterHead](https://velog.velcdn.com/images/younoah/post/bc8a1f7c-68ac-48bc-84be-d6855d436f18/Git.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nipul</h1>
 <h3 align="center">Aspiring Software Engineer | Proficient in Next.js, React Native, Express, and Node.js | Passionate about Innovative Solutions</h3>
